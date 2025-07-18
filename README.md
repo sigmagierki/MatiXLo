@@ -18,6 +18,10 @@
 
 ###
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jowa7wkhlojznsyd7fbx5fukxe&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=0046ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
